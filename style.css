@@ -1,0 +1,11 @@
+.img {
+    width: 100px;
+    cursor: pointer;
+}
+.img-jugada {
+    width: 150px;
+}
+aside {
+    border-right: 1px solid #ccc;
+}
+
